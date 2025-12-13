@@ -1,3 +1,3 @@
-# НИР по теме "Сравнительный анализ алгоритмов цветовой сегментации для задач распознания объектов"
+# Research project on "Comparative analysis of color segmentation algorithms for object recognition tasks"
 
-Чтобы посмотреть отчет,нужно скачать его.Слишком много весит
+To view the report, you need to download it. It weighs too much
